@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/xodamcm/BetterMobsOverworld-PM5
+build-by-default: true
+branches:
+- PM5
+projects:
+  BetterMobsOverworld-PM5:
+    path: ""
+...
